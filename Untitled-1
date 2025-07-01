@@ -1,0 +1,7 @@
+
+/index.html         ← Landing Page (Giveaway + Hero Section)
+/blog.html          ← Blog entries
+/newsletter.js      ← JS for SendGrid + news fetch
+/style.css          ← Tailwind or custom CSS
+/images/            ← All uploaded visuals
+/server.js          ← Express app (for newsletter, contest, form handling)

@@ -1,0 +1,6 @@
+
+import guitarImg from './assets/guitar.png';
+
+function App() {
+  return <img src={guitarImg} alt="Guitar" />;
+}
